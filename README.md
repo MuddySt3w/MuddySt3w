@@ -1,6 +1,6 @@
 ## ESP 🇪🇸
 
-# 👋 ¡Hola! Soy el usuario MuddyStew, pero me pueden llamar Jack o Jackie
+# 👋 ¡Hola! Soy MuddyStew, pero me pueden llamar Jack o Jackie
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos e intereses.
 
