@@ -1,16 +1,37 @@
-## Hi there 👋
+## ESP 🇪🇸
 
-<!--
-**MuddySt3w/MuddySt3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy el usuario MuddyStew, pero me pueden llamar Jack o Jackie
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos e intereses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+Soy un estudiante de aplicaciones multiplataformas, actualmente en su primer año.
+
+## 💡 Intereses
+- Desarrollo web
+- Desarrollo de videojuegos
+- Aprendizaje automático
+
+## 🚀 Proyectos destacados
+- 🔧 **Proyecto 1**: Actualemnete ninguno. ¡Próximamanete más y mejor!
+- 📊 **Proyecto 2**: Actualemnete ninguno. ¡Próximamanete más y mejor!
+
+---
+
+## ENG 🇬🇧
+
+# 👋 Hi! I'm MuddyStew, but you can call me Jack or Jackie.
+
+Welcome to my GitHub profile. Here you'll find some of my projects and interests.
+
+## 🧑‍💻 About Me
+I'm a first-year student of cross-platform apps.
+
+## 💡 Interests
+- Web Development
+- Game Development
+- Machine Learning
+
+## 🚀 Featured Projects
+- 🔧 **Project 1**: Currently none. More and better coming soon!
+- 📊 **Project 2**: Currently none. More and better coming soon!
